@@ -1,0 +1,74 @@
+body {
+    background-color: #DBD8D3;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    font-size: 18px;
+    margin: 30px;
+}
+
+.name {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #2e3d50;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.image-profile {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #2e3d50;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    color: #2e3d50;
+    
+}
+
+#principal-photo {
+    height: 250px;
+    border-radius: 150px;
+    box-shadow: 2px 3px 2px 2px grey;
+}
+
+#principal-photo:hover {
+    height: 300px;
+}
+
+.profile-description {
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 35px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.first-column {
+    border-color: #2E3D50;
+    border-width: 3px;
+    border-style: solid;
+    background-color: #A8BBB9;
+    padding: 35px;
+    margin: 0 5px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 2px 3px grey;
+}
+
+.second-column {
+    border-color: #2E3D50;
+    border-width: 3px;
+    border-style: solid;
+    background-color: #A8BBB9;
+    padding: 35px;
+    margin: 0 5px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 2px 3px grey;
+}
